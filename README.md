@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/une-histoire-sans-fin/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Une Histoire Sans Fin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-histoire-sans-fin/) |
+| **Get License** | [Obtain a Music License for Une Histoire Sans Fin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-histoire-sans-fin/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sous les néons de Paris, tu as capté mon regard
+> Le moteur résonne fort, on s'échappe dans le noir
+> Je respire ton parfum, ton aura me dévore
+> Une histoire sans fin, sur la piste, j'en veux encore
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
