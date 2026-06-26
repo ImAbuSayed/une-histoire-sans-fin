@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Une Histoire Sans Fin
+
+This log tracks the cryptographic history and versioning for the song **Une Histoire Sans Fin** (une-histoire-sans-fin).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-26T19:28:26.721426 | `v1` | `56b04b51a224d56606d4ff7334e04e9a175504a3dc26c1897b38402bdf8e046a` | `abad302d4c4b5a3f556cc9837ab71417ddc146563a7ad19d641bd24aacbfe269` | `2026-06-26_une-histoire-sans-fin-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
